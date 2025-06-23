@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel">
-  <img src="https://raw.githubusercontent.com/filamentphp/filament/3.x/resources/img/filament-mark.svg" width="100" alt="Filament">
+  <img src="https://github.com/username/repo-name/raw/main/assets/filament-mark.svg" width="100" alt="Filament" />
+</p>
+
 </p>
 
 ## Tentang Aplikasi
