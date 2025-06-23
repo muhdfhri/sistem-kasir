@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel">
-  <img src="https://github.com/username/repo-name/raw/main/assets/filament-mark.svg" width="100" alt="Filament" />
 </p>
 
 </p>
